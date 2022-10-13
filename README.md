@@ -1,9 +1,11 @@
 # Le Bao Han Tran
 
-I am super pretty.
+HSH is silly.
 
 ## This is my bio
 
 - First record
 - Second record
 
+## HSH is super stupid and kiddy
+How to make a website: Please contact HSH. He will make one for free
