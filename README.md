@@ -1,10 +1,3 @@
----
-title: "Hattie's Homepage"
-permalink: /
-layout: home
-author_profile: false
----
-
 # Le Bao Han Tran
 
 HSH is silly.
