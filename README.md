@@ -1,7 +1,3 @@
----
-title: "Hattie's Homepage"
----
-
 # Le Bao Han Tran
 
 HSH is silly.
