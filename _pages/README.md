@@ -1,6 +1,6 @@
 ---
 title: "Hattie's Homepage"
-permalink: 
+permalink: /
 layout: home
 author_profile: true
 ---
