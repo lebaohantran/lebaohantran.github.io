@@ -7,8 +7,10 @@ main:
 navs:
   - title: "My Blogs"
     children:
-      - title: "Grouped by years"
+      - title: "Recent posts"
         url: /posts/
+      - title: "Grouped by years"
+        url: /years/
       - title: "Grouped by tags"
         url: /tags/
       - title: "Grouped by categories"
