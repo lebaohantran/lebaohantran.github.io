@@ -107,6 +107,7 @@ defaults:
         nav: "navs"
       header:
         overlay_image: /assets/images/d.jpg
+        excerpt: ""
     
   # _pages
   - scope:
