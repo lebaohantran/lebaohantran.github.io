@@ -106,8 +106,7 @@ defaults:
       sidebar:
         nav: "navs"
       header:
-        overlay_image: /assets/images/d.jpg
-      excerpt: ""
+        image: /assets/images/d.jpg
     
   # _pages
   - scope:
