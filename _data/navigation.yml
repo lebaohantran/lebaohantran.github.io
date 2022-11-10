@@ -5,9 +5,7 @@ main:
     url: /about/
 
 navs:
-  - title: "Home"
-    url: /
-  - title: "My Posts"
+  - title: "My Blogs"
     children:
       - title: "Grouped by years"
         url: /posts/
@@ -15,7 +13,5 @@ navs:
         url: /tags/
       - title: "Grouped by categories"
         url: /categories/
-  - title: "About me"
-    url: /about/
 
 
