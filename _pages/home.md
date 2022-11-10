@@ -1,5 +1,5 @@
 ---
-title: "Hattie's Home Page"
+title: "Hattie's Homepage"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,12 +8,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/a.jpg
   actions:
-    - label: "My recent blogs"
-      url: "https://lebaohantran.github.io/posts/"
+    - label: "Help Docs"
+      url: "https://mmistakes.github.io/minimal-mistakes/docs/configuration/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Welcome to my little website where I post my thoughts.
 If you have any further question (ofc you will) 
-just ask Hansen :D"
+just ask Hansen (I know u won't bother to figure out the help docs XD ).
+Love uuuuu"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
 feature_row:
