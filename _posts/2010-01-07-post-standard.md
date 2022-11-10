@@ -7,10 +7,6 @@ tags:
   - Post Formats
   - readability
   - standard
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
 ---
 
 # Title 1

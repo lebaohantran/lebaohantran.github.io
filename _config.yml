@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home
-email: lebaohantran96@gmail.com
+title: Hattie's Homepage
+subtitle: "welcome to my site"
+title_separator: "-"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  My personal blogs to share my thoughts and ideas.
 minimal_mistakes_skin: default
 search: true
+search_full_content: true
+logo: /assets/images/apple-touch-icon.png
+words_per_minute: 200
 
 # Build settings
 markdown: kramdown
@@ -95,10 +95,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
+      toc: true
+      toc_label: "My Table of Contents"
+      toc_icon: "cog"
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -114,20 +117,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+

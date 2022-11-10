@@ -1,11 +1,21 @@
 main:
-  - title: "Posts"
+  - title: "Blogs"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
-  - title: "grid"
-    url: /grid/
+
+navs:
+  - title: "Home"
+    url: /
+  - title: "My Posts"
+    children:
+      - title: "Grouped by years"
+        url: /docs/quick-start-guide/
+      - title: "Grouped by tags"
+        url: /docs/structure/
+      - title: "Grouped by categories"
+        url: /docs/installation/
+  - title: "About me"
+    url: /about/
+
+
