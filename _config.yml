@@ -105,6 +105,8 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "navs"
+      header:
+        overlay_image: /assets/images/c.jpg
     
   # _pages
   - scope:
