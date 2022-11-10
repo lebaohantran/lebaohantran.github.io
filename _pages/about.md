@@ -4,7 +4,7 @@ title: "About Me"
 classes: wide
 author_profile: true
 header:
-  image: /assets/images/b.jpg
+  overlay_image: /assets/images/b.jpg
   # image_description: "A description of the image"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
