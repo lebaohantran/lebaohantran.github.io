@@ -10,11 +10,11 @@ navs:
   - title: "My Posts"
     children:
       - title: "Grouped by years"
-        url: /docs/quick-start-guide/
+        url: /posts/
       - title: "Grouped by tags"
-        url: /docs/structure/
+        url: /tags/
       - title: "Grouped by categories"
-        url: /docs/installation/
+        url: /categories/
   - title: "About me"
     url: /about/
 
