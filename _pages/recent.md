@@ -1,5 +1,5 @@
 ---
-title: "Recent Posts"
+title: "My Blogs"
 permalink: /posts/
 layout: home
 author_profile: false
