@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About Me"
 classes: wide
+author_profile: true
 ---
 
 # About Me
