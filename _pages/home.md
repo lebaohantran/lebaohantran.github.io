@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Hattie's Home Page"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -8,12 +8,14 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/a.jpg
   actions:
-    - label: "Read Welcome Doc"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "My recent blogs"
+      url: "https://lebaohantran.github.io/posts/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Welcome to my little website where I post my thoughts."
+excerpt: "Welcome to my little website where I post my thoughts.
+If you have any further question (ofc you will) 
+just ask Hansen :D"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
