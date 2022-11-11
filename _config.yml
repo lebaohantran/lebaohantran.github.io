@@ -94,7 +94,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      classes: wide2
+      author_profile: false
       comments: true
       read_time: false
       share: true
@@ -103,11 +104,11 @@ defaults:
       toc_label: "On this page"
       toc_icon: "file-alt"
       toc_sticky: true
-      sidebar:
-        nav: "navs"
+      # sidebar:
+      #   nav: "navs"
       header:
         image: /assets/images/d.jpg
-    
+      
   # _pages
   - scope:
       path: "_pages"
