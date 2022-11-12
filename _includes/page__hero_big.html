@@ -31,9 +31,7 @@
         {% endif %}
       </h1>
       {% if page.tagline %}
-        <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
-      {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        <div class="page__lead">{{ page.tagline | markdownify }}</div>
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.cta_url %}
@@ -45,6 +43,9 @@
           <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
         {% endfor %}
       {% endif %}
+      <p class="page__lead"> </p>
+      <p class="page__lead"> </p>
+      <p class="page__lead"> </p>
       <p class="page__lead"> </p>
       <p class="page__lead"> </p>
       <p class="page__lead"> </p>

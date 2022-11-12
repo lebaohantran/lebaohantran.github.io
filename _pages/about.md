@@ -5,8 +5,6 @@ classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/header_b.jpg
-  # image_description: "A description of the image"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 # My Resume
