@@ -191,6 +191,53 @@ body {
   animation-delay: 0.25s;
 
   &--overlay {
+    position: relative;
+    margin-bottom: 2em;
+    padding: 3em 0;
+    @include clearfix;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-animation: $intro-transition;
+    animation: $intro-transition;
+    -webkit-animation-delay: 0.25s;
+    animation-delay: 0.25s;
+
+    a {
+      color: #fff;
+    }
+
+    .wrapper {
+      padding-left: 1em;
+      padding-right: 1em;
+
+      @include breakpoint($x-large) {
+        max-width: $x-large;
+      }
+    }
+
+    .page__title,
+    .page__meta,
+    .page__lead,
+    .btn {
+      color: #fff;
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    }
+
+    .page__lead {
+      max-width: $medium;
+    }
+
+    .page__title {
+      font-size: $type-size-2;
+
+      @include breakpoint($small) {
+        font-size: $type-size-1;
+      }
+    }
+  }
+
+  &--overlay-flex {
     flex: 1 1 auto;
     position: relative;
     margin-bottom: 0;
