@@ -67,7 +67,7 @@ author:
       url: "https://lebaohantran.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "tranlebaohan610@gmail.com"
+      url: "mailto:tranlebaohan610@gmail.com"
 
 footer:
   links:
@@ -76,7 +76,7 @@ footer:
       url: "https://lebaohantran.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "tranlebaohan610@gmail.com"
+      url: "mailto:ranlebaohan610@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lebaohantran"
