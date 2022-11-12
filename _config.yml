@@ -60,20 +60,17 @@ plugins:
 author:
   name   : "Han Tran (Hattie)"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "I am a teacher ❤️ "
+  bio    : "❤️ I am a teacher ✝️"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://lebaohantran.github.io"
+    - label: "LinkdIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "Email"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
