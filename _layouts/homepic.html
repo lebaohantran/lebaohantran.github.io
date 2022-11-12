@@ -22,12 +22,13 @@
       {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
         {% include page__hero_big.html %}
       {% endif %}
-      <div id="footer" class="page__footer">
-        <footer>
-          {% include footer/custom.html %}
-          {% include_cached footer.html %}
-        </footer>
-      </div>
+    </div>
+
+    <div id="footer" class="page__footer-not-margin">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
     </div>
 
     {% if site.search == true %}
