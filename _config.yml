@@ -101,8 +101,6 @@ defaults:
       toc_label: "On this page"
       toc_icon: "file-alt"
       toc_sticky: true
-      # sidebar:
-      #   nav: "navs"
       header:
         overlay_image: /assets/images/header_d.jpg
         show_overlay_excerpt: false
