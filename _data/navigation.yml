@@ -1,11 +1,11 @@
 main:
-  - title: "Blogs"
+  - title: "Blog"
     url: /posts/
   - title: "About"
     url: /about/
 
 navs:
-  - title: "My Blogs"
+  - title: "My Blog"
     children:
       - title: "Recent posts"
         url: /posts/

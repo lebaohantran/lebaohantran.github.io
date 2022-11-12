@@ -17,7 +17,7 @@ title: Hattie
 subtitle: "my homepage"
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal blogs to share my thoughts and ideas.
+  My personal blog to share my thoughts and ideas.
 minimal_mistakes_skin: default
 search: true
 search_full_content: true
