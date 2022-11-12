@@ -184,13 +184,15 @@ body {
   animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
+  background-size: contain;
+  background-repeat: no-repeat;
 
   &--overlay {
     position: relative;
     margin-bottom: 0;
     padding: 3em 0;
     @include clearfix;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-animation: $intro-transition;
