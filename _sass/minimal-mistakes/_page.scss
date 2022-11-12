@@ -38,6 +38,7 @@ body {
 .initial-content-flex {
   flex: 1 0 auto;
   display: flex;
+  overflow-x: hidden;
 }
 
 .page {
