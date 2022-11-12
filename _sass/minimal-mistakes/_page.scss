@@ -186,7 +186,7 @@ body {
   animation-delay: 0.25s;
 
   &--overlay {
-    position: relative;
+    position: static;
     margin-bottom: 0;
     padding: 3em 0;
     @include clearfix;
