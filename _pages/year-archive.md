@@ -2,6 +2,7 @@
 title: "Posts by Year"
 permalink: /years/
 layout: posts
+classes: wide
 author_profile: false
 sidebar:
   nav: "navs"

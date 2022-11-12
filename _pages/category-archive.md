@@ -2,6 +2,7 @@
 title: "Posts by Category"
 layout: categories
 permalink: /categories/
+classes: wide
 author_profile: false
 sidebar:
   nav: "navs"
