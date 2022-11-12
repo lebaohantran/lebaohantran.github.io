@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hattie's Homepage
-subtitle: "welcome to my site"
+title: Hattie
+subtitle: "my homepage"
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blogs to share my thoughts and ideas.
@@ -96,8 +96,10 @@ defaults:
       layout: single
       classes: wide2
       author_profile: false
-      comments: true
+      comments: false
       read_time: false
+      show_date: true
+      show_author: false
       share: true
       related: false
       toc: true
@@ -107,7 +109,7 @@ defaults:
       # sidebar:
       #   nav: "navs"
       header:
-        overlay_image: /assets/images/d.jpg
+        overlay_image: /assets/images/header_d.jpg
         show_overlay_excerpt: false
       
   # _pages
