@@ -30,13 +30,14 @@ body {
           flex-direction: column;
 }
 
+.initial-content,
 .search-content {
   flex: 1 0 auto;
 }
 
-.initial-content {
-  display: flex;
+.initial-content-flex {
   flex: 1 0 auto;
+  display: flex;
 }
 
 .page {
@@ -190,7 +191,7 @@ body {
   animation-delay: 0.25s;
 
   &--overlay {
-    flex: 1 0 auto;
+    flex: 1 1 auto;
     position: relative;
     margin-bottom: 0;
     padding: 3em 0;
