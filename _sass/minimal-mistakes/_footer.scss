@@ -46,9 +46,10 @@
   }
 }
 
-.no-top-margin {
-  @include clearfix;
-  margin-top: 0;
+.footer-no-top-margin {
+  .page__footer {
+    margin-top: 0;
+  }
 }
 
 .page__footer-copyright {
