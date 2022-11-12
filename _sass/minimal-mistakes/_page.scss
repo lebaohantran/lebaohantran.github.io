@@ -30,7 +30,11 @@ body {
           flex-direction: column;
 }
 
-.initial-content,
+.initial-content {
+  flex: 1 0 auto;
+  display: flex;
+}
+
 .search-content {
   flex: 1 0 auto;
 }
@@ -177,7 +181,6 @@ body {
 }
 
 .page__hero {
-  flex: 1 0 auto;
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
