@@ -33,7 +33,10 @@ body {
 .initial-content,
 .search-content {
   flex: 1 0 auto;
-  display: inline-flex;
+}
+
+.initial-content {
+  display: flex;
 }
 
 .page {
