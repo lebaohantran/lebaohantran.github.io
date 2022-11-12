@@ -79,6 +79,7 @@
   &.is--visible {
     display: block;
     visibility: visible;
+    width: 100%;
 
     &::after {
       content: "";
