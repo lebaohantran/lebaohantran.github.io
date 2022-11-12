@@ -177,8 +177,9 @@ body {
 }
 
 .page__hero {
+  flex: 1 0 auto;
   position: relative;
-  margin-bottom: 0;
+  margin-bottom: 2em;
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -186,14 +187,14 @@ body {
   animation-delay: 0.25s;
 
   &--overlay {
-    position: static;
+    flex: 1 0 auto;
+    position: relative;
     margin-bottom: 0;
     padding: 3em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    flex: 1 0 auto;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
@@ -574,30 +575,6 @@ body {
 
     @include breakpoint($x-large) {
       padding-right: 0;
-    }
-  }
-}
-
-.wide2 {
-  .page {
-    float: left;
-    width: 100%;
-    @include breakpoint($large) {
-      padding-left: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-left: 0;
-    }
-  }
-
-  .page__related {
-    @include breakpoint($large) {
-      padding-left: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-left: 0;
     }
   }
 }
