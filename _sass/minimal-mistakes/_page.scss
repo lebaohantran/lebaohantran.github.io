@@ -30,13 +30,13 @@ body {
           flex-direction: column;
 }
 
-.initial-content,
 .search-content {
   flex: 1 0 auto;
 }
 
 .initial-content {
   display: flex;
+  flex: 1 0 auto;
 }
 
 .page {
