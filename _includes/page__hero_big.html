@@ -31,7 +31,7 @@
         {% endif %}
       </h1>
       {% if page.tagline %}
-        <div class="page__lead">{{ page.tagline }}</div>
+        <div class="page__lead">{{ page.tagline | markdownify }}</div>
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.cta_url %}
