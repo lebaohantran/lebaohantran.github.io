@@ -193,7 +193,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    overflow: hidden;
+    flex: 1 0 auto;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
