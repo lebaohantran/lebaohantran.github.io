@@ -48,6 +48,7 @@
 
 .footer-no-top-margin {
   .page__footer {
+    @include clearfix;
     margin-top: 0;
   }
 }
