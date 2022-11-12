@@ -1,5 +1,5 @@
 ---
-title: "Hattie's Blog"
+title: "Welcome :D"
 layout: homepic
 permalink: /
 header:
@@ -11,7 +11,7 @@ header:
       url: "https://lebaohantran.github.io/posts/"
 tagline: |+
   Welcome to your little website where you post my thoughts.  
-  If you have any further question (ofc you will) .  
-  just ask Hansen (I know u won't bother to figure out the help docs XD ).  
-  Love uuuuuuu
+  If you have any further question (ofc you will) ,  
+  just ask Hansen.  
+  Love uuuuuuu <3
 ---
