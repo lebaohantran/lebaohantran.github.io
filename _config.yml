@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Hattie"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/avatar.png"
   bio    : "❤️ I am a teacher ✝️"
   links:
     - label: "Website"
