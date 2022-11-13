@@ -71,15 +71,12 @@ author:
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://lebaohantran.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ranlebaohan610@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lebaohantran"
+      url: "https://github.com/lebaohantran/lebaohantran.github.io"
 
 
 defaults:
