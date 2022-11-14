@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "My Blog"
 permalink: /years/
 layout: posts
 classes: wide

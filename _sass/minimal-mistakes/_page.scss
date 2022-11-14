@@ -35,12 +35,6 @@ body {
   flex: 1 0 auto;
 }
 
-.initial-content-flex {
-  flex: 1 0 auto;
-  display: flex;
-  overflow-x: hidden;
-}
-
 .page {
   @include breakpoint($large) {
     float: right;
@@ -237,54 +231,6 @@ body {
       }
     }
   }
-
-  &--overlayflex {
-    flex: 1 1 auto;
-    position: relative;
-    margin-bottom: 0;
-    padding: 3em 0;
-    @include clearfix;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-    animation-delay: 0.25s;
-
-    a {
-      color: #fff;
-    }
-
-    .wrapper {
-      padding-left: 1em;
-      padding-right: 1em;
-
-      @include breakpoint($x-large) {
-        max-width: $x-large;
-      }
-    }
-
-    .page__title,
-    .page__meta,
-    .page__lead,
-    .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
-    }
-
-    .page__lead {
-      max-width: $medium;
-    }
-
-    .page__title {
-      font-size: $type-size-2;
-
-      @include breakpoint($small) {
-        font-size: $type-size-1;
-      }
-    }
-  }
 }
 
 .page__hero-image {
@@ -301,7 +247,7 @@ body {
   padding: 2px 5px;
   color: #fff;
   font-family: $caption-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-9;
   background: #000;
   text-align: right;
   z-index: 5;

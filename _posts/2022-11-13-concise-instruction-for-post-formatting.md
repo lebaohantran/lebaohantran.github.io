@@ -12,7 +12,7 @@ tags:         # can be deleted or left blank
   - jekyll
 ---
 
-# 1 How to Add a New Post to Your Blog
+# 1 How to Add/Edit/Delete a Post to Your Blog
 
 
 # 2 How to Write a Post

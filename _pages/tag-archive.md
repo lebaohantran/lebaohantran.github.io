@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "My Blog"
 permalink: /tags/
 layout: tags
 classes: wide
