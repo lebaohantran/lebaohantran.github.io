@@ -19,7 +19,7 @@ tags:         # can be deleted or left blank
 Go to the repository of your website in Github: [https://github.com/lebaohantran/lebaohantran.github.io](https://github.com/lebaohantran/lebaohantran.github.io)  
 I also put a link on the footer of your website pointing to the address above.
 
-All your posts are in the folder `/\_\_posts` in your repository
+All your posts are in the folder `/__posts` in your repository
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4502146bc0f75bfca400d755cf68344cd122f8fcea36e7c1.png)
 
