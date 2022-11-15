@@ -12,13 +12,27 @@ tags:         # can be deleted or left blank
   - jekyll
 ---
 
-# 1 How to Add/Edit/Delete a Post to Your Blog
+## 1 How to Add/Edit/Delete a Post to Your Blog
 
+### 1.1 Where Your Posts Are
 
-# 2 How to Write a Post
+Go to the repository of your website in Github: [https://github.com/lebaohantran/lebaohantran.github.io](https://github.com/lebaohantran/lebaohantran.github.io)  
+I also put a link on the footer of your website pointing to the address above.
 
+All your posts are in the folder `/\_\_posts` in your repository
 
-# 3 Using WYSIWYG Tool
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4502146bc0f75bfca400d755cf68344cd122f8fcea36e7c1.png)
 
+Click to open it and you can see all your posts here:
 
-# 4 Just a Bit More
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/30e87b4ad38b7fcfb1cefa2aec52acc6d657157d98ab37fe.png)
+
+### 1.1 Add a Post
+
+## 2 How to Write a Post
+
+## 2.1 before writing:
+
+## 3 Using WYSIWYG Tool
+
+## 4 Just a Bit More
