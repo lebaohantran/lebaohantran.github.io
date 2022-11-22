@@ -36,7 +36,7 @@ Then you name your file in this format: `YYYY-MM-DD-YourFilename.md`
 
 For example: 2022-11-22-My-First-Post.md
 
-**Notice that it needs to start with** `**YYYY-MM-DD**` **and end with** `**.md**`
+**Notice that it needs to start with** `YYYY-MM-DD` **and end with** `.md`
 
 After editing your file on this page (Please read Chapter 2 to see how to write it), click **Commit new file** button to submit.
 
